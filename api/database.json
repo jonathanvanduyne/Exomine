@@ -1,0 +1,598 @@
+{
+  "governors": [
+    {
+      "id": 1,
+      "name": "Yoda",
+      "status": true,
+      "colonyId": 1
+    },
+    {
+      "id": 2,
+      "name": "Emperor Palpatine",
+      "status": true,
+      "colonyId": 2
+    },
+    {
+      "id": 3,
+      "name": "Obi-Wan Kenobi",
+      "status": true,
+      "colonyId": 3
+    },
+    {
+      "id": 4,
+      "name": "Anakin Skywalker",
+      "status": true,
+      "colonyId": 4
+    },
+    {
+      "id": 5,
+      "name": "Han Solo",
+      "status": true,
+      "colonyId": 5
+    },
+    {
+      "id": 6,
+      "name": "Chewbacca",
+      "status": true,
+      "colonyId": 6
+    },
+    {
+      "id": 7,
+      "name": "Mace Windu",
+      "status": true,
+      "colonyId": 7
+    },
+    {
+      "id": 8,
+      "name": "Count Dooku",
+      "status": true,
+      "colonyId": 8
+    },
+    {
+      "id": 9,
+      "name": "Lea Organa",
+      "status": true,
+      "colonyId": 9
+    },
+    {
+      "id": 10,
+      "name": "Jar Jar Binks",
+      "status": true,
+      "colonyId": 10
+    }
+  ],
+  "facilities": [
+    {
+      "id": 1,
+      "location": "Star Killer Base",
+      "status": true
+    },
+    {
+      "id": 2,
+      "location": "Imperial Base",
+      "status": true
+    },
+    {
+      "id": 3,
+      "location": "Yavin Rebel Base",
+      "status": true
+    },
+    {
+      "id": 4,
+      "location": "Death Star",
+      "status": true
+    },
+    {
+      "id": 5,
+      "location": "Endor Shield Facility",
+      "status": true
+    },
+    {
+      "id": 6,
+      "location": "Coruscant Jedi Temple",
+      "status": true
+    },
+    {
+      "id": 7,
+      "location": "Bespin Cloud City",
+      "status": true
+    },
+    {
+      "id": 8,
+      "location": "Mos Eisley",
+      "status": true
+    },
+    {
+      "id": 9,
+      "location": "Spice Mines of Kessel",
+      "status": true
+    },
+    {
+      "id": 10,
+      "location": "Geonosian Droid Factory",
+      "status": true
+    },
+    {
+      "id": 11,
+      "location": "Kashyyyk Oil Refinery",
+      "status": true
+    },
+    {
+      "id": 12,
+      "location": "Naboo Theed",
+      "status": true
+    }
+  ],
+  "minerals": [
+    {
+      "id": 1,
+      "name": "Kyber"
+    },
+    {
+      "id": 2,
+      "name": "Vonium"
+    },
+    {
+      "id": 3,
+      "name": "Mandalorian Iron"
+    },
+    {
+      "id": 4,
+      "name": "Corusca"
+    },
+    {
+      "id": 5,
+      "name": "Solari"
+    },
+    {
+      "id": 6,
+      "name": "Durasteel"
+    },
+    {
+      "id": 7,
+      "name": "Quadranium Steel"
+    },
+    {
+      "id": 8,
+      "name": "Cerulean"
+    },
+    {
+      "id": 9,
+      "name": "Phrik"
+    },
+    {
+      "id": 10,
+      "name": "Salt"
+    }
+  ],
+  "colonies": [
+    {
+      "id": 1,
+      "location": "Tatooine"
+    },
+    {
+      "id": 2,
+      "location": "Hoth"
+    },
+    {
+      "id": 3,
+      "location": "Endor"
+    },
+    {
+      "id": 4,
+      "location": "Kashyyyk"
+    },
+    {
+      "id": 5,
+      "location": "Naboo"
+    },
+    {
+      "id": 6,
+      "location": "Mustafar"
+    },
+    {
+      "id": 7,
+      "location": "Coruscant"
+    },
+    {
+      "id": 8,
+      "location": "Dagobah"
+    },
+    {
+      "id": 9,
+      "location": "Alderaan"
+    },
+    {
+      "id": 10,
+      "location": "Kamino"
+    }
+  ],
+  "colonyInventory": [
+    {
+      "id": 1,
+      "colonyId": 9,
+      "mineralId": 3,
+      "amount": 54
+    },
+    {
+      "id": 2,
+      "colonyId": 7,
+      "mineralId": 10,
+      "amount": 95
+    },
+    {
+      "id": 3,
+      "colonyId": 2,
+      "mineralId": 4,
+      "amount": 68
+    },
+    {
+      "id": 4,
+      "colonyId": 3,
+      "mineralId": 6,
+      "amount": 48
+    },
+    {
+      "id": 5,
+      "colonyId": 5,
+      "mineralId": 8,
+      "amount": 27
+    },
+    {
+      "id": 6,
+      "colonyId": 6,
+      "mineralId": 1,
+      "amount": 83
+    },
+    {
+      "id": 7,
+      "colonyId": 10,
+      "mineralId": 7,
+      "amount": 42
+    },
+    {
+      "id": 8,
+      "colonyId": 4,
+      "mineralId": 5,
+      "amount": 69
+    },
+    {
+      "id": 9,
+      "colonyId": 1,
+      "mineralId": 2,
+      "amount": 74
+    },
+    {
+      "id": 10,
+      "colonyId": 8,
+      "mineralId": 9,
+      "amount": 51
+    },
+    {
+      "id": 11,
+      "colonyId": 6,
+      "mineralId": 3,
+      "amount": 21
+    },
+    {
+      "id": 12,
+      "colonyId": 3,
+      "mineralId": 10,
+      "amount": 102
+    },
+    {
+      "id": 13,
+      "colonyId": 7,
+      "mineralId": 4,
+      "amount": 33
+    },
+    {
+      "id": 14,
+      "colonyId": 9,
+      "mineralId": 6,
+      "amount": 63
+    },
+    {
+      "id": 15,
+      "colonyId": 2,
+      "mineralId": 8,
+      "amount": 78
+    },
+    {
+      "id": 16,
+      "colonyId": 4,
+      "mineralId": 1,
+      "amount": 45
+    },
+    {
+      "id": 17,
+      "colonyId": 1,
+      "mineralId": 7,
+      "amount": 91
+    },
+    {
+      "id": 18,
+      "colonyId": 5,
+      "mineralId": 5,
+      "amount": 38
+    },
+    {
+      "id": 19,
+      "colonyId": 10,
+      "mineralId": 9,
+      "amount": 60
+    },
+    {
+      "id": 20,
+      "colonyId": 8,
+      "mineralId": 2,
+      "amount": 32
+    },
+    {
+      "id": 21,
+      "colonyId": 2,
+      "mineralId": 3,
+      "amount": 92
+    },
+    {
+      "id": 22,
+      "colonyId": 3,
+      "mineralId": 6,
+      "amount": 47
+    },
+    {
+      "id": 23,
+      "colonyId": 6,
+      "mineralId": 10,
+      "amount": 79
+    },
+    {
+      "id": 24,
+      "colonyId": 7,
+      "mineralId": 4,
+      "amount": 56
+    },
+    {
+      "id": 25,
+      "colonyId": 9,
+      "mineralId": 1,
+      "amount": 31
+    },
+    {
+      "colonyId": 1,
+      "mineralId": 10,
+      "amount": 14,
+      "id": 26
+    },
+    {
+      "colonyId": 1,
+      "mineralId": 3,
+      "amount": 2,
+      "id": 27
+    },
+    {
+      "colonyId": 2,
+      "mineralId": 6,
+      "amount": 4,
+      "id": 28
+    },
+    {
+      "colonyId": 3,
+      "mineralId": 7,
+      "amount": 15,
+      "id": 29
+    },
+    {
+      "colonyId": 7,
+      "mineralId": 8,
+      "amount": 1,
+      "id": 30
+    },
+    {
+      "colonyId": 5,
+      "mineralId": 4,
+      "amount": 1,
+      "id": 31
+    },
+    {
+      "colonyId": 8,
+      "mineralId": 4,
+      "amount": 1,
+      "id": 32
+    },
+    {
+      "colonyId": 9,
+      "mineralId": 2,
+      "amount": 1,
+      "id": 33
+    },
+    {
+      "colonyId": 10,
+      "mineralId": 6,
+      "amount": 1,
+      "id": 34
+    },
+    {
+      "colonyId": 2,
+      "mineralId": 10,
+      "amount": 4,
+      "id": 35
+    },
+    {
+      "colonyId": 2,
+      "mineralId": 9,
+      "amount": 1,
+      "id": 36
+    },
+    {
+      "colonyId": 1,
+      "mineralId": 6,
+      "amount": 1,
+      "id": 37
+    },
+    {
+      "colonyId": 4,
+      "mineralId": 4,
+      "amount": 2,
+      "id": 38
+    },
+    {
+      "colonyId": 6,
+      "mineralId": 8,
+      "amount": 7,
+      "id": 39
+    }
+  ],
+  "facilityInventory": [
+    {
+      "id": 1,
+      "facilityId": 8,
+      "mineralId": 3,
+      "amount": 77
+    },
+    {
+      "id": 2,
+      "facilityId": 5,
+      "mineralId": 9,
+      "amount": 14
+    },
+    {
+      "id": 3,
+      "facilityId": 12,
+      "mineralId": 2,
+      "amount": 51
+    },
+    {
+      "id": 4,
+      "facilityId": 2,
+      "mineralId": 6,
+      "amount": 30
+    },
+    {
+      "id": 5,
+      "facilityId": 9,
+      "mineralId": 4,
+      "amount": 33
+    },
+    {
+      "id": 6,
+      "facilityId": 3,
+      "mineralId": 7,
+      "amount": 62
+    },
+    {
+      "id": 7,
+      "facilityId": 10,
+      "mineralId": 1,
+      "amount": 24
+    },
+    {
+      "id": 8,
+      "facilityId": 4,
+      "mineralId": 5,
+      "amount": 72
+    },
+    {
+      "id": 9,
+      "facilityId": 6,
+      "mineralId": 8,
+      "amount": 42
+    },
+    {
+      "id": 10,
+      "facilityId": 1,
+      "mineralId": 10,
+      "amount": 31
+    },
+    {
+      "id": 11,
+      "facilityId": 11,
+      "mineralId": 2,
+      "amount": 18
+    },
+    {
+      "id": 12,
+      "facilityId": 7,
+      "mineralId": 6,
+      "amount": 60
+    },
+    {
+      "id": 13,
+      "facilityId": 5,
+      "mineralId": 3,
+      "amount": 36
+    },
+    {
+      "id": 14,
+      "facilityId": 12,
+      "mineralId": 9,
+      "amount": 95
+    },
+    {
+      "id": 15,
+      "facilityId": 3,
+      "mineralId": 4,
+      "amount": 26
+    },
+    {
+      "id": 16,
+      "facilityId": 10,
+      "mineralId": 7,
+      "amount": 68
+    },
+    {
+      "id": 17,
+      "facilityId": 8,
+      "mineralId": 1,
+      "amount": 41
+    },
+    {
+      "id": 18,
+      "facilityId": 2,
+      "mineralId": 5,
+      "amount": 56
+    },
+    {
+      "id": 19,
+      "facilityId": 4,
+      "mineralId": 10,
+      "amount": 76
+    },
+    {
+      "id": 20,
+      "facilityId": 6,
+      "mineralId": 2,
+      "amount": 13
+    },
+    {
+      "id": 21,
+      "facilityId": 1,
+      "mineralId": 3,
+      "amount": 90
+    },
+    {
+      "id": 22,
+      "facilityId": 11,
+      "mineralId": 6,
+      "amount": 31
+    },
+    {
+      "id": 23,
+      "facilityId": 7,
+      "mineralId": 8,
+      "amount": 63
+    },
+    {
+      "id": 24,
+      "facilityId": 9,
+      "mineralId": 1,
+      "amount": 23
+    },
+    {
+      "id": 25,
+      "facilityId": 5,
+      "mineralId": 4,
+      "amount": 49
+    }
+  ]
+}

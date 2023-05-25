@@ -1,0 +1,85 @@
+.choose_governor {
+    margin-bottom: 30px;
+}
+
+.choosen {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.right-container {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Star Wars", sans-serif;
+    color: #ffe81f;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+body {
+    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJiZWEwMWJhMTFkN2E2MjRhZWM1MzdkYWMxZTgzNmNiYmViYjU4NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/GC7C2Fi902BDG/giphy.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Star Wars", sans-serif;
+    color: white;
+}
+
+h1,
+h2 {
+    text-shadow: blue;
+    color: #ffe81f;
+}
+
+#purchase {
+    border: 3px solid #ffe81f;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+#facility_inventory {
+    float: left;
+    border: 3px solid #ffe81f;
+    padding-top: 15px;
+    padding-right: 60px;
+    padding-bottom: 15px;
+    padding-left: 60px;
+    margin-right: 25px;
+}
+
+.purchase-button {
+    width: 120px;
+    white-space: pre-line;
+    font-size: 15px;
+    margin-top: 10px;
+    align-content: center;
+}
+
+.space-cart {
+    color: #ffe81f;
+}
+
+.purchase-btn {
+    border: 1px solid #ffe81f;
+    border-radius: 25px;
+    background-color: black;
+    color: #ffe81f;
+    font-family: "Star Wars", sans-serif;
+    margin-top: 5px;
+    width: fit-content;
+    font-size: 9px;
+}
+
+.hidden-btn {
+    opacity: 0;
+    pointer-events: none;
+}
